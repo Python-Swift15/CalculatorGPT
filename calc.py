@@ -1,7 +1,7 @@
 op = -1
 while op != 5:
     print ("Welcome to CalculatorGPT")
-    print ("1) Add")
+    print (") Add")
     print ("2) Subtract")
     print ("3) Multiply")
     print ("4) Divide")
